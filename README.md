@@ -4,4 +4,4 @@
 나의 관심분야
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/언어-색상?style=flat-square&logo=simpleicons에서 로고 이름&logoColor=white"/></a
+<img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=simpleicons javascript&logoColor=white"/></a
