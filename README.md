@@ -1,4 +1,4 @@
-# 안녕하세요 나는 강영승이에요.
+## 안녕하세요 나는 강영승이에요.
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Youngseung's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 나의 관심분야
@@ -7,5 +7,5 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
-저를 소개합니다
+## Technologies I use
 <a href="https://ig.me/1Wnpwru83lpXIZ5" target="_blank">
