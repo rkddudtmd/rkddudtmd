@@ -2,5 +2,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Youngseung's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 나의 관심분야
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=html5&logoColor=white"/>
-
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
