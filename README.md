@@ -7,5 +7,8 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
-## Technologies I use
-<a href="https://ig.me/1Wnpwru83lpXIZ5" target="_blank">
+## 저를 소개합니다
+<a href="https://instagram.com/alpox.dev">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://[instagram.com](https://ig.me/1Wnpwru83lpXIZ5)/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
